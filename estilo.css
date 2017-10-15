@@ -52,4 +52,12 @@ td{
 /*conteudo*/
 .conteudo{
     margin-top: 5%;
+    position: relative;
+    display: block;
+}
+.titulo2{
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(110,127,229));
+    color: white;
+    padding-right: 15px;
+    text-align: right;
 }
